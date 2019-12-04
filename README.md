@@ -17,6 +17,7 @@ This will fetch the dependencies
 
 Start the server : node index.js
 
-##Prerequiistes
+
+## Prerequiistes
 
 Node.js / Yarn
